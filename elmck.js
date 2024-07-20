@@ -1,7 +1,7 @@
 /*
 // 文件名：elmck.js
 [rewrite_local]
-^https:\/\/air.tb.ele.me\/app\/conch-page\/svip-grade-home\/ url script-request-header http://chickliu.store:5244/d/bd/QX/JS/elm.js
+^https:\/\/air.tb.ele.me\/app\/conch-page\/svip-grade-home\/ url script-request-header https://raw.githubusercontent.com/chick-liu/QX/main/elmck.js
 [mitm]
 hostname = air.tb.ele.me
 */
